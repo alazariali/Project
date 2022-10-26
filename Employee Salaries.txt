@@ -4,4 +4,5 @@ Parker	 $217,238
 Tom	 $63,569 
 Henry	 $203,418 
 Matieu	 $179,026 
+Ali 			£100k
 
